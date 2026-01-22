@@ -50,4 +50,4 @@ Me gusta aprender de forma autodidacta, experimentar con nuevas herramientas y c
 
 - 📧 Email: alecarmona@aleecr.es
 - 🌐 Web: [aleecr.es](https://aleecr.es)
-- 💼 LinkedIn: [Alejandro Carmona](https://www.linkedin.com/in/alecarmona/)
+- 💼 LinkedIn: [Alejandro Carmona](https://www.linkedin.com/in/aleecarmona/)
